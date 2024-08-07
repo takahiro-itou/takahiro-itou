@@ -4,6 +4,9 @@
   <a href="https://github.com/takahiro-itou">
     <img src="https://komarev.com/ghpvc/?username=takahiro-itou" />
   </a>
+  <a href="https://github.com/takahiro-itou">
+    <img src="https://img.shields.io/github/followers/takahiro-itou?label=follow&logo=github&style=flat" />
+  </a>
 </p>
 
 <!--
