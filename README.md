@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/takahiro-itou">
+    <img src="https://komarev.com/ghpvc/?username=takahiro-itou" />
+  </a>
+</p>
+
 <!--
 **takahiro-itou/takahiro-itou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
