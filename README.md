@@ -9,7 +9,12 @@
   </a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=takahiro-itou&show_icons=true)
+<p align="left">
+  <a href="https://github.com/takahiro-itou">
+     <img src="https://github-readme-stats.vercel.app/api?username=takahiro-itou&show_icons=true" />
+  </a>
+</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takahiro-itou&layout=compact)
 
 <!--
