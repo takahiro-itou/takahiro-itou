@@ -1,5 +1,5 @@
 ## Hi there 👋
-83;40602;0c
+
 <p align="center">
   <a href="https://github.com/takahiro-itou">
     <img src="https://komarev.com/ghpvc/?username=takahiro-itou" />
