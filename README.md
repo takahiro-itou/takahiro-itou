@@ -17,7 +17,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takahiro-itou&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=takahiro-itou)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=takahiro-itou)
 
 <!--
 **takahiro-itou/takahiro-itou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
